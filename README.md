@@ -1,4 +1,5 @@
 # validate-lab
+![img](./src/assets/Screenshot.png)
 
 ## Project setup
 ```
